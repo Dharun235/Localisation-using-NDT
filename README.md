@@ -1,7 +1,7 @@
-# nd0013_cd2693_Exercise_Starter_Code
+# Localisation using NDT scan matching in Carla simulator
 
 ## Dependencies
-Before you practice the exercises in this repository, ensure that your development environment is configured with the following tools and dependencies:
+Before you implement the codes in this repository, ensure that your development environment is configured with the following tools and dependencies:
 
 - [CARLA simulator 0.9.9.4](https://github.com/carla-simulator/carla/releases/tag/0.9.9) 
 - [NICE DCV Server](https://docs.aws.amazon.com/dcv/latest/adminguide/setting-up-installing-linux-prereq.html). This step will install Nvidia drivers along with CUDA libraries for the underlying Tesla T4 GPU
@@ -22,7 +22,7 @@ Before you practice the exercises in this repository, ensure that your developme
 Fork the repository to your Github account and clone it to your local development environment using the following commands:
 
 ```bash
-git clone https://github.com/udacity/nd0013_cd2693_Exercise_Starter_Code.git
+git clone https://github.com/udacity/Localisation-using-NDT.git
 cd nd0013_cd2693_Exercise_Starter_Code
 ```
 
